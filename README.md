@@ -4,7 +4,7 @@ Collaborative learning repository for our Atomcamp journey.
 
 ## Learning Areas
 
-- Python Fundamentals
+- Python 
 - NumPy and Pandas
 - Machine Learning
 - Deep Learning
